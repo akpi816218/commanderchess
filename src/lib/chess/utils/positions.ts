@@ -1,4 +1,4 @@
-import { MoveType, Position, Vector } from './types';
+import { MoveType, Position, Vector } from '../types';
 
 export function transformPosition(
 	position: Position,

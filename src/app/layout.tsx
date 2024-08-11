@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { cn } from '@/lib/utils';
+import { cn } from '@/lib/twui-utils';
 import { RootUrl } from '@/lib/constants';
 import { OpenSans } from '@/lib/fonts';
 
