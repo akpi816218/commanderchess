@@ -5,8 +5,8 @@
 	"type": "module",
 	"scripts": {
 		"dev": "npx next dev",
-		"build": "npx next build",
-		"start": "npx next start -p 8888",
+		"build": "npm ci && npx next build",
+		"start": "npx next start",
 		"lint": "npx next lint",
 		"fmt": "npx prettier --write ."
 	},
