@@ -1,6 +1,6 @@
 # Commander Chess
 
-[Rules](https://docs.google.com/document/d/1Av-yB_y5rYppS_klCNHbFi5y5Wd4Xxub1ikbGD1jLgU/edit?usp=sharing)
+[Rules]()
 
 But as a multiplayer web game with local pass-and-play!
 
