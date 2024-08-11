@@ -2,6 +2,7 @@
 	"compilerOptions": {
 		"lib": ["dom", "dom.iterable", "esnext"],
 		"allowJs": true,
+		"checkJs": true,
 		"skipLibCheck": true,
 		"strict": true,
 		"noEmit": true,
@@ -28,13 +29,5 @@
 		".next/types/**/*.ts",
 		"next.config.js"
 	],
-	"exclude": ["node_modules"],
-	"mdx": {
-		"checkMdx": true
-	},
-	"plugins": [
-		{
-			"name": "@mdx-js/typescript-plugin"
-		}
-	]
+	"exclude": ["node_modules"]
 }
