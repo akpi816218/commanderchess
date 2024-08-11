@@ -154,7 +154,7 @@ export function isPositionValid(position: Position): boolean {
 	);
 }
 
-export function getOkays(
+function getOkays(
 	pos: Position,
 	i: number
 ): {
