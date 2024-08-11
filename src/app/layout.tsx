@@ -6,19 +6,19 @@ import { OpenSans } from '@/lib/fonts';
 
 export const metadata: Metadata = {
 	title: {
-		absolute: 'Stack Underflow Club',
-		default: 'Stack Underflow Club',
-		template: '%s | SUC'
+		absolute: '',
+		default: '',
+		template: ''
 	},
-	description: 'A CHS club of coders and AI/ML enthusiasts',
+	description: '',
 	openGraph: {
 		type: 'website',
 		locale: 'en-US',
 		url: RootUrl,
-		title: 'Stack Underflow Club',
-		description: 'A CHS club of coders and AI/ML enthusiasts',
+		title: '',
+		description: '',
 		countryName: 'United States',
-		siteName: 'Stack Underflow Club'
+		siteName: ''
 	},
 	icons: [`${RootUrl}/logo.webp`]
 };
